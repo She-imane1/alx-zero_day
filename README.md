@@ -1,2 +1,2 @@
 My first readme
-README.md up_to_date
+up_to_date
